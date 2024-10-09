@@ -1,0 +1,61 @@
+[
+    {
+        "id": "abc123def4",
+        "chocolates": [
+            {
+                "id": 1,
+                "name": "DASasdadsdas",
+                "price": 0.99,
+                "kind": "regular",
+                "factoryId": 1,
+                "type": "lesnik",
+                "weight": 30,
+                "description": "Rich and smooth dark chocolate with 70% cocoa content.",
+                "image": "https://www.nestle-esar.com/sites/g/files/pydnoa441/files/2023-01/61613%20KitKat%204F%20Dark%20Import%20Pack.png",
+                "status": "In stock",
+                "quantity": 50
+            },
+            {
+                "id": 2,
+                "name": "Snickers",
+                "price": 1.99,
+                "kind": "regular",
+                "factoryId": 1,
+                "type": "milk",
+                "weight": 100,
+                "description": "Rich and smooth dark chocolate with 70% cocoa content.",
+                "image": "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/NI_CATALOG/IMAGES/CIW/2024/3/28/ec88a987-f6cb-4365-8e87-f879337719f3_chocolate_DYLF76C66N_MN.png",
+                "status": "In stock",
+                "quantity": 50
+            }
+        ],
+        "factoryId": 1,
+        "purchaseDate": "2024-06-23 14:55:00",
+        "totalPrice": 11.95,
+        "customerName": "John Doe",
+        "status": "Processing"
+    },
+    {
+        "id": "1cd97b76-2",
+        "chocolates": [
+            {
+                "id": 7,
+                "name": "kesten dezert",
+                "price": 30,
+                "kind": "kesten",
+                "factoryId": 2,
+                "type": "mlecna",
+                "weight": 15,
+                "description": "kesten pire",
+                "image": "https://static.maxi.rs/medias/sys_master/h74/h43/9086320050206.jpg",
+                "status": "In stock",
+                "quantity": 20
+            }
+        ],
+        "factoryId": "2",
+        "purchaseDate": "2024-06-25 23:18:37",
+        "totalPrice": 600,
+        "customerName": "Jole Josic",
+        "status": "Processing"
+    }
+]

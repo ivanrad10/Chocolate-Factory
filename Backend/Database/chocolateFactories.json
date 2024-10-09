@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "name": "Kurtos kolac",
+        "workingHours": "08:00 - 18:00",
+        "status": "Closed",
+        "location": "123 Chocolate Avenue, Sweet City",
+        "logo": "https://www.groupcaliber.com/wp-content/uploads/2022/08/nestle_case_study_logo_feaure_image.png",
+        "rating": 4.8
+    },
+    {
+        "id": 2,
+        "name": "Pionir",
+        "workingHours": "08:00 - 18:00",
+        "status": "Open",
+        "location": "123 Chocolate Avenue, Sweet City",
+        "logo": "https://upload.wikimedia.org/wikipedia/sr/1/15/Pionir_logo.png",
+        "rating": 4.8
+    }
+]

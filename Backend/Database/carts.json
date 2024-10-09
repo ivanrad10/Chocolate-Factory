@@ -1,0 +1,60 @@
+[
+    {
+        "username": "jole",
+        "chocolates": [
+            {
+                "id": 1,
+                "name": "DASasdadsdas",
+                "price": 0.99,
+                "kind": "regular",
+                "factoryId": 1,
+                "type": "lesnik",
+                "weight": 30,
+                "description": "Rich and smooth dark chocolate with 70% cocoa content.",
+                "image": "https://www.nestle-esar.com/sites/g/files/pydnoa441/files/2023-01/61613%20KitKat%204F%20Dark%20Import%20Pack.png",
+                "status": "In stock",
+                "quantity": 1
+            },
+            {
+                "id": 4,
+                "name": "Juhuu",
+                "price": 2,
+                "kind": "regular",
+                "factoryId": 2,
+                "type": "lesnik",
+                "weight": 30,
+                "description": "Rich and smooth dark chocolate with 70% cocoa content.",
+                "image": "https://online.idea.rs/images/products/409/409000244_1l.jpg?1668417317",
+                "status": "In stock",
+                "quantity": 9
+            },
+            {
+                "id": 2,
+                "name": "Snickers",
+                "price": 1.99,
+                "kind": "regular",
+                "factoryId": 1,
+                "type": "milk",
+                "weight": 100,
+                "description": "Rich and smooth dark chocolate with 70% cocoa content.",
+                "image": "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/NI_CATALOG/IMAGES/CIW/2024/3/28/ec88a987-f6cb-4365-8e87-f879337719f3_chocolate_DYLF76C66N_MN.png",
+                "status": "In stock",
+                "quantity": 3
+            },
+            {
+                "id": 3,
+                "name": "adasdasdasd",
+                "price": 9.99,
+                "kind": "regular",
+                "factoryId": 2,
+                "type": "lesnik",
+                "weight": 30,
+                "description": "Rich and smooth dark chocolate with 70% cocoa content.",
+                "image": "https://www.pionir.rs/pub/catalog/proizvodi_polozeno-437x310-pionir-kuvanje-200g.jpg",
+                "status": "In stock",
+                "quantity": 7
+            }
+        ],
+        "totalPrice": 94.89
+    }
+]
